@@ -1,5 +1,4 @@
 /*
-Ian Pinegar
 2024SP COSC-1436-57002
 2/15/24
 Description: This program calculates and displays weekly pay for employees, factoring in hours worked, hourly rate, and employment status, with appropriate deductions for taxes and benefits.
